@@ -1,2 +1,4 @@
 {{subjectPrefix}}Payment sent
-A Payment of {{amount}} has been sent from your wallet {{walletName}}.
+A Payment of {{amount}} has been sent from your wallet.
+
+https://orion.nebl.io
