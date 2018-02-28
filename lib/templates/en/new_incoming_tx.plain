@@ -1,4 +1,4 @@
 {{subjectPrefix}}New payment received
-A payment of {{amount}} has been received into your wallet.
+A payment of {{amount}} (or change from a sent transaction) has been received into your wallet.
 
 https://orion.nebl.io
