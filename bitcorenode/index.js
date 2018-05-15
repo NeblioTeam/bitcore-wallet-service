@@ -81,7 +81,7 @@ Service.prototype._getConfiguration = function() {
   var providerOptions = {
     provider: 'insight',
     url: (self.node.https ? 'https://' : 'http://') + 'localhost:' + self.node.port,
-    apiPrefix: '/ins'
+    apiPrefix: '/insight-api'
   };
 
   // A bitcore-node is either livenet or testnet, so we'll pass
